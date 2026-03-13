@@ -1,5 +1,5 @@
 # Validation & Testing Plan – The Unforeseen
-**Project:** The Unforeseen | **Team:** U97 Unity Takımı | **Engine:** Unity 3D | **Date:** March 2026
+**Project:** The Unforeseen | **Engine:** Unity 3D | **Date:** March 2026
 
 ---
 
